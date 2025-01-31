@@ -1,4 +1,6 @@
-#📌 QR Code Redirector - PHP#
+#QR Code Redirector - PHP
+
+📌 QR Code Redirector - PHP
 
 Este projeto é um sistema simples de geração de QR Codes e redirecionamento de URLs com contagem de acessos, desenvolvido em PHP puro, sem necessidade de banco de dados.
 
